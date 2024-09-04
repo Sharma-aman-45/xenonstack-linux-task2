@@ -50,7 +50,7 @@ Show the current version of sysopctl.
 Generate the manual page for sysopctl.
 
 .SH AUTHOR
-Harsh Pratap
+Aman
 
 .SH SEE ALSO
 systemctl(1), top(1), journalctl(1)
